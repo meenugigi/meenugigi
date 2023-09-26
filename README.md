@@ -40,7 +40,7 @@ I am passionate about software development and full-stack development, and I'm a
 
 ## Connect with Me
 
-- [LinkedIn] https://www.linkedin.com/in/meenu-gigi-b18040129/
+- [LinkedIn] https://www.linkedin.com/in/meenugigi/
 
 Feel free to explore my repositories and connect with me on LinkedIn. Let's collaborate and innovate together!
 
