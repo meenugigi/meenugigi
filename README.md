@@ -16,7 +16,7 @@ Hello! I am Meenu Gigi, a passionate software engineer and a dedicated learner.
 
 ## Professional Experience
 
-I have a total of 2.5 years of professional industry experience in software engineering, during which I have worked on various projects, gaining expertise in data structures, critical thinking and problem solving. 
+I have a total of 3 years of professional industry experience in software engineering, during which I have worked on various projects, gaining expertise in data structures, critical thinking and problem solving. 
 
 ## Experience in The U.S
 - Software Engineer Co-op at Ecolab (Jan 2023 - May 2023)
