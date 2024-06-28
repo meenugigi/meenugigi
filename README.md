@@ -18,20 +18,21 @@ Hello! I am Meenu Gigi, a passionate software engineer and a dedicated learner.
 
 I have a total of 3 years of professional industry experience in software engineering, during which I have worked on various projects, gaining expertise in data structures, critical thinking and problem solving. 
 
-## Experience in The U.S
+## Experience in The United States
 - Software Engineer Co-op at Ecolab (Jan 2023 - May 2023)
 - Software Engineer Co-op at Collins Aerospace (May 2023 - Jan 2024)
 
 
 ## Skills
 
-- **Programming Languages**:  C#, Java, JavaFX, Python, React, C/C++, JavaScript, ReactJS
-- **Frameworks and Technologies**:  : Entity Framework Core, .NET, HTML5, Flask, Django, Spring Boot, Spring MVC Frameworks, Hibernate
-- **Database**: Relational Databases/RDBMS, Microsoft SQL, MySQL, PostgreSQL
-- **Tools**: IntelliJ, Eclipse, PyCharm, VS Code, Vista Terminal, ARINC Trace Window, IBM Rational Doors, PREP, GitHub, Jupyter Notebooks, Git, Jira, Bugzilla, Postman, Gradle, Maven, Tableau
-- **API, Services, and Libraries**: REST API, Pandas, NumPy, Matplotlib, Seaborn, Natural Language Processing Toolkit, Torch, Scikit-Learn
-- **Software Testing/Quality Assurance**: NUnit testing, Production testing, Regression testing, User Acceptance testing, JUnit testing
-- **Others**: Advanced object-oriented programming concepts, Multi-Threading, Data Structures, Data Processing, Algorithms, Agile Development Cycle, Design Principles, Networking (TCP/IP, UDP), Web Protocols, Data Modeling, Data Cleaning, Data Visualization
+- **Programming language**: C#, Java, JavaFX, Python, React, C/C++, JavaScript, ReactJS
+- **Web Technologies & Frameworks**: Entity Framework Core, .NET, FastAPI, HTML5, Flask, Django, Spring Boot, Spring MVC Frameworks, Hibernate
+- **Database**: Relational Databases/RDBMS, Microsoft SQL, MySQL, PostgreSQL, MongoDB
+- **Tools/IDE**: IntelliJ, Eclipse, PyCharm, VS Code, Vista Terminal, ARINC Trace Window, IBM Rational Doors, PREP, GitHub, Jupyter Notebooks, Git, Jira, Bugzilla, Postman, Gradle, Maven, Tableau
+- **API, Services, and Libraries**: SOAP, HTTP REST API, OpenAPI, Pandas, NumPy, Matplotlib, Seaborn, Natural Language Processing Toolkit, Torch, Scikit-Learn, XML, JSON, YAML
+- **Software Testing/Quality Assurance**: NUnit testing, Functional testing, Production testing, Regression testing, User Acceptance testing, JUnit testing, System Integration testing
+- **Others**: Advanced object-oriented programming concepts, Multi-Threading, Data Structures, Data Processing, Algorithms, Agile Development Cycle, Design Principles, Networking (TCP/IP, UDP), Web Protocols, Data Modeling, Data Cleaning, Data Visualization, Microservices Architecture, Service Oriented Architecture, Web Services
+
 
 
 ## Future Goals
